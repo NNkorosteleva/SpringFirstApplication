@@ -1,10 +1,10 @@
-package com.java.spring_application;
+package com.javaapplication.application_search;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class ApplicationSearchApplicationTests {
 
 	@Test
 	void contextLoads() {

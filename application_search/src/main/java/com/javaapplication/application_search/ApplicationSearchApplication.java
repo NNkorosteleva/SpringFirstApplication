@@ -1,13 +1,13 @@
-package com.java.spring_application;
+package com.javaapplication.application_search;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Application {
+public class ApplicationSearchApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Application.class, args);
+		SpringApplication.run(ApplicationSearchApplication.class, args);
 	}
 
 }
